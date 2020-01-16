@@ -1,5 +1,5 @@
 # RAdam
-RAdam optimizer mxnet implementation
+[RAdam optimizer](https://arxiv.org/abs/1908.03265) mxnet implementation
 
 ## Quick Start
 
