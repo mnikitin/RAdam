@@ -1,7 +1,7 @@
 # RAdam
-[RAdam optimizer](https://arxiv.org/abs/1908.03265) mxnet implementation
+MXNet implementation of RAdam optimizer from [On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265) paper.
 
-## Quick Start
+## Train CIFAR-10 using RAdam
 
 ```bash
 python3 train_cifar10.py --mode hybrid \
